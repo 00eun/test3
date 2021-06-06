@@ -1,5 +1,5 @@
 # test3
-doit git&amp;github study. chapter5. 
+doit git&amp;github study. chapter5~6
 
 ## 이미지파일 실습
 ### 캐릭터 이름 : 레비
